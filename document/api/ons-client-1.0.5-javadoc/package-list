@@ -1,0 +1,7 @@
+com.aliyun.openservices.ons.api
+com.aliyun.openservices.ons.api.bean
+com.aliyun.openservices.ons.api.exception
+com.aliyun.openservices.ons.api.impl
+com.aliyun.openservices.ons.api.impl.rocketmq
+com.aliyun.openservices.ons.api.order
+com.aliyun.openservices.ons.api.transaction
